@@ -1,0 +1,34 @@
+{
+  "run": [
+    {
+      "filePath": "",
+      "previewMode": 1,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [
+        {
+          "paramName": "",
+          "paramValue": ""
+        }
+      ],
+      "hashParameter": "",
+      "backendSystem": [
+        {
+          "source": "ES4",
+          "destinations": "ES4"
+        }
+      ],
+      "urlParametersNotNeeded": false,
+      "_metadata": {
+        "id": 6975441,
+        "runnerId": "webapprunner",
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1508908662678,
+        "hasIssues": true
+      }
+    }
+  ]
+}

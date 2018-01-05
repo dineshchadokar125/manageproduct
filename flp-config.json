@@ -1,0 +1,35 @@
+{
+    "application": {
+        "id": "",
+        "title": "opensap.manageproducts.ManageProducts",
+        "description": "Product App New",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#ManageProducts-Display",
+        "navigationComponentName": "opensap.manageproducts",
+        "intentSemanticObject": "ManageProducts",
+        "intentAction": "Display",
+        "html5ApplicationName": "manageproducts",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "00000000-0000-1111-0000-00000000"
+        ],
+        "contentPackages": [
+            "00000000-0000-2222-0000-00000000"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Product App Latest ",
+        "subtitle": "Display products",
+        "searchKeywords": "Product App Latest ,Display products",
+        "displayIconUrl": "sap-icon://accept",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
