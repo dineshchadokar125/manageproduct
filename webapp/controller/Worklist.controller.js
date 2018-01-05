@@ -77,7 +77,9 @@ sap.ui.define([
 				this.getRouter().navTo("add");
 			},
 
-			
+			onAdd1: function() {
+				this.getRouter().navTo("add");
+			},
 			/**
 			 * Event handler when a filter tab gets pressed
 			 * @param {sap.ui.base.Event} oEvent the filter tab event
